@@ -1,1 +1,1 @@
-Print no console
+Print "Hello World"
