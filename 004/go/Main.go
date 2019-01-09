@@ -22,4 +22,10 @@ func main() {
     fmt.Printf("False\n")
   }
 
+  if false {
+    fmt.Printf("\n")
+  } else {
+    fmt.Printf("false é False\n")
+  }
+
 }
