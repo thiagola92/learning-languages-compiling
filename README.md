@@ -6,4 +6,4 @@ Ordem do que eu vi:
 * Funções
 * Variáveis
 * If/else
-* Loop
+* While
