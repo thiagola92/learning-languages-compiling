@@ -34,3 +34,8 @@ if true
 end
 
 print("Essa linha vai executar se o if for verdadeiro\n") if true
+
+x = if true
+  "if/else sempre retornam a ultima linha"
+end
+print("#{x}\n")
