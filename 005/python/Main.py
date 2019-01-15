@@ -1,22 +1,6 @@
-if (1 == 1):
-    print("True")
+i = 1
 
-if (1 == 2):
-    print("True")
-else:
-    print("False")
+while (i <= 10):
+    print(i)
 
-if (1 == 2):
-    print("True")
-elif (2 == 2):
-    print("True 2")
-else:
-    print("False")
-
-if (False):
-    print("")
-else:
-    print("False é False")
-
-if True:
-    print("Parênteses é opcional")
+    i += 1
