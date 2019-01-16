@@ -7,3 +7,4 @@ Ordem do que eu vi:
 * Variáveis
 * If/else
 * While
+* Array
