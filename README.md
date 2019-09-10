@@ -1,3 +1,10 @@
 # Programming Languages
+Um repositório para eu explorar rapidamente o básico das linguagens.  
 
-Não se pode estudar uma linguagem de programação sem saber como executar o código da linguagem.
+Ordem do que eu vi:  
+* Print
+* Funções
+* Variáveis
+* If/else
+* While
+* Array

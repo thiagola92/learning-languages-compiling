@@ -1,2 +1,0 @@
-`rustc Main.rs`  
-`./Main`  
