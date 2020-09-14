@@ -1,13 +1,5 @@
 # Programming Languages
-Um repositório para eu explorar rapidamente o básico das linguagens.  
-
-# Subjects
-* Print
-* Funções
-* Variáveis
-* If/else
-* While
-* Array
+Um repositório para eu ver rapidamente como executar o código da linguagem pelo terminal.  
 
 # Languages
 * Bash
@@ -24,4 +16,4 @@ Um repositório para eu explorar rapidamente o básico das linguagens.
 * Rust
 
 # To do
-* Add Flutter and Haskell
+* Add Flutter/Dart and Haskell
