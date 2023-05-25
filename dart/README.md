@@ -1,9 +1,9 @@
 # dart
 
-### compile and run
+### run
 `dart Main.dart`  
 
-### compile and save executable
+### build
 `dart compile exe Main.dart`  
 `./Main.exe`  
 
