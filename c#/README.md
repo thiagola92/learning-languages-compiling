@@ -1,6 +1,4 @@
 # mcs
-
-### build
 `mcs main.cs -out:main.exe`  
 `./main.exe`  
 
