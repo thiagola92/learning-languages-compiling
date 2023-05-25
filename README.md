@@ -6,6 +6,7 @@ Um repositório para eu ver rapidamente como executar o código da linguagem pel
 * C
 * C#
 * C++
+* Dart
 * Go
 * Java
 * JavaScript
@@ -17,4 +18,4 @@ Um repositório para eu ver rapidamente como executar o código da linguagem pel
 * Zig
 
 # To do
-* Add Dart, Haskell, Zig
+* Add Haskell
