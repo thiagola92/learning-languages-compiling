@@ -1,2 +1,2 @@
 # python3
-`$ python3 Main.py`  
+`python3 Main.py`  
