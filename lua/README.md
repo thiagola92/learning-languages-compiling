@@ -1,5 +1,5 @@
 # lua
-`$ lua Main.lua`  
+`lua Main.lua`  
 
 # Notes
-`$ sudo apt install lua5.4`  
+`sudo apt install lua5.4`  
