@@ -10,5 +10,5 @@ Installed together with clang.
 `$ ./Main`  
 
 # Notes
-**g++**: `sudo apt install g++`  
-**clang++**: `sudo apt install clang`  
+**g++**: `$ sudo apt install g++`  
+**clang++**: `$ sudo apt install clang`  
