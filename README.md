@@ -8,6 +8,7 @@ Um repositório para eu ver rapidamente como executar o código da linguagem pel
 * C++
 * Dart
 * Go
+* Haskell
 * Java
 * JavaScript
 * Kotlin
@@ -18,4 +19,4 @@ Um repositório para eu ver rapidamente como executar o código da linguagem pel
 * Zig
 
 # To do
-* Add Haskell, Assembly, Clojure, Elixir, LLVM
+* Add Assembly, Clojure, Elixir, LLVM
