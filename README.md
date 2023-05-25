@@ -14,6 +14,7 @@ Um repositório para eu ver rapidamente como executar o código da linguagem pel
 * Python
 * Ruby
 * Rust
+* Zig
 
 # To do
 * Add Dart, Haskell, Zig
