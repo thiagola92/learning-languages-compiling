@@ -1,1 +1,1 @@
-`lua Main.lua`  
+`$ lua Main.lua`  
