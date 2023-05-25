@@ -5,5 +5,5 @@
 `$ sh Main.sh`   
 
 # Notes
-Seu sistema pode ter outras versões de bash (dash é um deles).  
-Nem todos os comandos de bash estão inclusos na versão do seu sistema  
+The OS can have another versions of bash (like dash).  
+Some commands may not be include in your bash variation.  
