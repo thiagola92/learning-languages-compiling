@@ -1,2 +1,4 @@
-Instale **mono-complete** para usar no ubuntu  
 `$ mcs main.cs -out:main.exe`  
+
+# Notes
+`sudo apt install mono-complete`  
