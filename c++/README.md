@@ -1,11 +1,14 @@
-Estude quando usar **printf** e quando usar **cout**  
+[> Just as there is gcc for C and g++ for C++, there is clang for C and clang++ for C++.](https://cplusplus.com/forum/unices/121465/)
+
+# g++
 
 ### Main
-
-`$ gcc Main.cpp -o Main`  
+`$ g++ Main.cpp -o Main`  
 `$ ./Main`  
 
-### Main2
-Sempre que utilizar `std::` no código:  
-`$ gcc Main2.cpp -lstdc++ -o Main2`  
-`$ ./Main2`
+# clang++
+Installed together with clang.  
+
+### Main
+`$ clang++ Main.cpp -o Main`  
+`$ ./Main`  
