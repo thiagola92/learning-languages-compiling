@@ -1,9 +1,9 @@
 # go
 
-### compile and run
+### run
 `go run Main.go`  
 
-### compile and save executable
+### build
 `go build Main.go`  
 `./Main`  
 
