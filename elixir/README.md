@@ -1,9 +1,9 @@
 # elixir
 
-### compile and run
+### run
 `elixir Main.ex`  
 
-### compile and save executable
+### build
 `elixirc Main2.ex`  
 `elixir -e Example.print`  
 
