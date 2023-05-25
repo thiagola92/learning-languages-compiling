@@ -1,9 +1,9 @@
 # clojure
 
-### compile and run
+### run
 `clojure Main.clj`  
 
-### compile and save executable
+### build
 TODO
 
 # Notes
