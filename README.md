@@ -18,4 +18,4 @@ Um repositório para eu ver rapidamente como executar o código da linguagem pel
 * Zig
 
 # To do
-* Add Haskell, Assembly
+* Add Haskell, Assembly, Clojure, Elixir
