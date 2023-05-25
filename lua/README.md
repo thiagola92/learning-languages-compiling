@@ -1,3 +1,4 @@
+# lua
 `$ lua Main.lua`  
 
 # Notes
