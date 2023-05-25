@@ -1,4 +1,11 @@
+# dart
 
+### compile and run
+`dart Main.dart`  
+
+### compile and save executable
+`dart compile exe Main.dart`  
+`./Main.exe`  
 
 # Notes
 ```
