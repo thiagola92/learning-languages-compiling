@@ -1,6 +1,6 @@
 # rustc
-`$ rustc Main.rs`  
-`$ ./Main`  
+`rustc Main.rs`  
+`./Main`  
 
 # Notes
-`$ sudo apt install rust-all`  
+`sudo apt install rust-all`  
