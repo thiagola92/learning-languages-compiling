@@ -1,5 +1,5 @@
 # mcs
-`$ mcs main.cs -out:main.exe`  
+`mcs main.cs -out:main.exe`  
 
 # Notes
-`$ sudo apt install mono-complete`  
+`sudo apt install mono-complete`  
