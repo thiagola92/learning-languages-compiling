@@ -20,4 +20,5 @@ Um repositório para ver rapidamente como executar uma linguagem pelo terminal.
 * Zig
 
 # To do
+* Clojure build
 * Add Assembly, Clojure, LLVM
