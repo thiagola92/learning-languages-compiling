@@ -21,4 +21,4 @@ Um repositório para ver rapidamente como executar uma linguagem pelo terminal.
 
 # To do
 * Clojure build
-* Add Assembly, Clojure, LLVM
+* Add Assembly, LLVM
