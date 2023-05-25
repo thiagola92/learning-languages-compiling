@@ -1,2 +1,2 @@
-`rustc Main.rs`  
-`./Main`  
+`$ rustc Main.rs`  
+`$ ./Main`  
