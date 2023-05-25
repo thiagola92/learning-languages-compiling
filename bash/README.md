@@ -1,8 +1,8 @@
 # bash
-`$ bash Main.sh`  
+`bash Main.sh`  
 
 # dash
-`$ sh Main.sh`   
+`sh Main.sh`   
 
 # Notes
 The OS can have another versions of bash (like dash).  
