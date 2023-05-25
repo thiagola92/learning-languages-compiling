@@ -3,10 +3,10 @@
 
 # deno
 
-### compile and run
+### run
 `deno run Main.js`  
 
-### compile and save executable
+### build
 `deno compile Main.js`  
 
 # Notes
