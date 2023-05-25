@@ -16,4 +16,4 @@ Um repositório para eu ver rapidamente como executar o código da linguagem pel
 * Rust
 
 # To do
-* Add Flutter/Dart and Haskell
+* Add Dart, Haskell, Zig
