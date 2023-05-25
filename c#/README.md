@@ -1,6 +1,6 @@
 Instale **mono-complete** para usar no ubuntu  
 
-`mcs main.cs`  
+`$ mcs main.cs`  
 
 Se quiser especificar a saida  
-`mcs main.cs -out:main.exe`  
+`$ mcs main.cs -out:main.exe`  
