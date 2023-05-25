@@ -1,9 +1,9 @@
 # zig
 
-### compile and run
+### run
 `zig run Main.zig`  
 
-### compile and save executable
+### build
 `zig build-exe Main.zig`  
 `./Main`  
 
