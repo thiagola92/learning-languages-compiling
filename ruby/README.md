@@ -1,5 +1,5 @@
 # ruby
-`$ ruby Main.rb`  
+`ruby Main.rb`  
 
 # Notes
-`$ sudo apt install ruby`  
+`sudo apt install ruby`  
