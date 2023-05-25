@@ -8,4 +8,4 @@
 `$ ./Main`  
 
 # Notes
-`sudo apt install golang`  
+`$ sudo apt install golang`  
