@@ -1,3 +1,4 @@
+# rustc
 `$ rustc Main.rs`  
 `$ ./Main`  
 
