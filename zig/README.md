@@ -1,11 +1,11 @@
 # zig
 
 ### compile and run
-`$ zig run Main.zig`  
+`zig run Main.zig`  
 
 ### compile and save executable
-`$ zig build-exe Main.zig`  
-`$ ./Main`  
+`zig build-exe Main.zig`  
+`./Main`  
 
 # Notes
-`$ sudo snap install zig --classic --beta`  
+`sudo snap install zig --classic --beta`  
