@@ -1,10 +1,8 @@
-# clojure
-
-### run
+# clojure - run
 `clojure Main.clj`  
 
-### build
+# clojure - build
 TODO
 
-# Notes
+# requirements
 `sudo apt install clojure`  
