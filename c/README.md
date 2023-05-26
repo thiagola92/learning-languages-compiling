@@ -6,6 +6,6 @@
 `clang Main.c -o Main`  
 `./Main`  
 
-# Notes
+# requirements
 **gcc**: `sudo apt install gcc`  
 **clang**: `sudo apt install clang`  
