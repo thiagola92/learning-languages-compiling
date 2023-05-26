@@ -1,6 +1,6 @@
-# ghc
+# ghc (build & run)
 `ghc Main.hs`  
 `./Main`  
 
-# Notes
+# requirements
 `sudo apt install ghc`  

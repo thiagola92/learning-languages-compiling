@@ -1,11 +1,9 @@
-# elixir
-
-### run
+# elixir (run)
 `elixir Main.ex`  
 
-### build
+# elixirc (build & run)
 `elixirc Main2.ex`  
 `elixir -e Example.print`  
 
-# Notes
+# requirements
 `sudo apt install elixir`

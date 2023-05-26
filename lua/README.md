@@ -1,5 +1,5 @@
-# lua
+# lua (run)
 `lua Main.lua`  
 
-# Notes
+# requirements
 `sudo apt install lua5.4`  

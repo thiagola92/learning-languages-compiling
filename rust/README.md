@@ -1,6 +1,6 @@
-# rustc
+# rustc (build & run)
 `rustc Main.rs`  
 `./Main`  
 
-# Notes
+# requirements
 `sudo apt install rust-all`  

@@ -1,9 +1,9 @@
-# bash
+# bash (run)
 `bash Main.sh`  
 
-# dash
+# dash (run)
 `sh Main.sh`   
 
-# notes
+# requirements
 The OS can have another versions of bash (like dash).  
 Some commands may not be include in your bash variation.  

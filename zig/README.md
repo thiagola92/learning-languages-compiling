@@ -1,11 +1,9 @@
-# zig
-
-### run
+# zig (run)
 `zig run Main.zig`  
 
-### build
+# zig (build & run)
 `zig build-exe Main.zig`  
 `./Main`  
 
-# Notes
+# requirements
 `sudo snap install zig --classic --beta`  

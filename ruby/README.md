@@ -1,5 +1,5 @@
-# ruby
+# ruby (run)
 `ruby Main.rb`  
 
-# Notes
+# requirements
 `sudo apt install ruby`  

@@ -1,11 +1,9 @@
-# go
-
-### run
+# go (run)
 `go run Main.go`  
 
-### build
+# go (build & run)
 `go build Main.go`  
 `./Main`  
 
-# Notes
+# requirements
 `sudo apt install golang`  

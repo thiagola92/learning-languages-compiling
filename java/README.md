@@ -1,6 +1,6 @@
-# java
+# java (build & run)
 `javac Main.java`  
 `java Main`  
 
-# Notes
+# requirements
 `sudo apt install openjdk-21-jdk`  

@@ -1,8 +1,8 @@
-# gcc
+# gcc (build & run)
 `gcc Main.c -o Main`  
 `./Main`  
 
-# clang
+# clang (build & run)
 `clang Main.c -o Main`  
 `./Main`  
 

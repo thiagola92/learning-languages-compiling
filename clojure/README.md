@@ -1,7 +1,7 @@
-# clojure - run
+# clojure (run)
 `clojure Main.clj`  
 
-# clojure - build
+# clojure (build & run)
 TODO
 
 # requirements
