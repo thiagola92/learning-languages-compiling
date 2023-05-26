@@ -17,6 +17,7 @@ Um repositório para ver rapidamente como executar uma linguagem pelo terminal.
 * Python
 * Ruby
 * Rust
+* Vala
 * Zig
 
 # To do
