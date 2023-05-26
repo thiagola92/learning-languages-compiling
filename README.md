@@ -1,5 +1,5 @@
 # Programming Languages
-Um repositório para ver rapidamente como executar uma linguagem pelo terminal.  
+Repository to check how to compile and execute some programming languages using terminal.  
 
 # Languages
 * Bash
