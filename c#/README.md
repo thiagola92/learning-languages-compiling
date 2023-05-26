@@ -1,4 +1,4 @@
-# c# - mcs
+# c#
 `mcs main.cs -out:main.exe`  
 `./main.exe`  
 
