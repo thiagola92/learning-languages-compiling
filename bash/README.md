@@ -4,6 +4,6 @@
 # dash
 `sh Main.sh`   
 
-# Notes
+# notes
 The OS can have another versions of bash (like dash).  
 Some commands may not be include in your bash variation.  
