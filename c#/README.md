@@ -1,6 +1,6 @@
-# mcs
+# c# - mcs
 `mcs main.cs -out:main.exe`  
 `./main.exe`  
 
-# Notes
+# requirements
 `sudo apt install mono-complete`  
