@@ -5,7 +5,6 @@
 `./Main`  
 
 # clang++
-Installed together with clang.  
 `clang++ Main.cpp -o Main`  
 `./Main`  
 
