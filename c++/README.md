@@ -9,6 +9,6 @@ Installed together with clang.
 `clang++ Main.cpp -o Main`  
 `./Main`  
 
-# Notes
+# requirements
 **g++**: `sudo apt install g++`  
 **clang++**: `sudo apt install clang`  
