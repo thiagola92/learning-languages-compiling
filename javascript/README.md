@@ -8,5 +8,5 @@
 `deno compile Main.js`  
 
 # requirements
-**node**: `curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - && sudo apt-get install -y nodejs`  
+**node**: `sudo apt install -y nodejs npm`  
 **deno**: `curl -fsSL https://deno.land/install.sh | sh`  
