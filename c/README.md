@@ -44,3 +44,8 @@ We can give the **linker** arguments with `-Wl` followed by arguments separated 
 `clang main.c -o main -Iinclude -Llib -lname -Wl,-Rlib`  
 Note: In this case the argument for the linker is where to search for more libs.  
 Note: There is no space between `-R` and the lib directory.  
+
+# references
+https://stackoverflow.com/questions/25160245/clang-linking-with-a-so-file  
+https://stackoverflow.com/questions/31176747/how-to-use-a-library-with-headers-and-so-files  
+https://stackoverflow.com/questions/480764/linux-error-while-loading-shared-libraries-cannot-open-shared-object-file-no-s  
